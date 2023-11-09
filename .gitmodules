@@ -2,5 +2,8 @@
 	path = iperf
 	url = git@github.com:fengmushu/iperf.git
 [submodule "trexiperf3-rpcd"]
-	path = trexiperf3-rpcd
+	path = rpcd
 	url = git@github.com:fengmushu/trexiperf3_rpcd.git
+[submodule "bmon"]
+	path = bmon
+	url = git@github.com:fengmushu/bmon.git
